@@ -31,12 +31,6 @@ This project aims to develop a smart fire alarm system designed to detect fires 
 - It must calculate the risk level and generate alerts.
 - It should send notifications to fire stations and data to related systems, such as HVAC and sprinkler systems.
 
-### Risk Management🚧
-
-#### Identified Risks and Mitigation Plans🛠️
-- **Risk of Increased Sensor Shipment Costs:💸**
-  - Mitigation: Accept the risk and allocate additional funds to cover the increased costs, ensuring the system's quality and robustness are not compromised.
-
 ### Project Milestones and Deliverables📅
 
 - **Deliverables:📦**
